@@ -288,9 +288,3 @@ For questions or help setting up, open an issue in the repo or contact the maint
 
 ---
 
-Thank you — this README is a template tailored to the current repo layout (Backend, Frontend, LLM, Models). If you want, I can:
-- Commit this README.md to the repository,
-- Generate `.env.example` templates for each subsystem,
-- Create a Docker Compose example to run all 4 systems together.
-
-Tell me which action you’d like me to do next and I’ll proceed.

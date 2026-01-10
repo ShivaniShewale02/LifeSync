@@ -1,10 +1,10 @@
-# LifeSync
+
 
 # LifeSync
 
 LifeSync is a multi-system repository that brings together a Backend, Frontend, LLM service, and Model artifacts to provide an integrated personal assistant / life-management platform. This README explains the repository layout, features, and how to get each subsystem running locally.
 
-Repository: [DevSharma03/LifeSync](https://github.com/DevSharma03/LifeSync)
+Repository: [ShivaniShewale02/LifeSync](https://github.com/ShivaniShewale02/LifeSync)
 
 ---
 
@@ -282,9 +282,9 @@ No license is specified in the repository currently. If you'd like to open-sourc
 
 ## Contact
 
-Repository: [Shivani Shewale/LifeSync](https://github.com/Shivani Shewale/LifeSync)
+Repository: [ShivaniShewale02/LifeSync](https://github.com/ShivaniShewale02/LifeSync)
 
-For questions or help setting up, open an issue in the repo or contact the maintainer (Shivani Shewale) via GitHub.
+For questions or help setting up, open an issue in the repo or contact the maintainer (ShivaniShewale02) via GitHub.
 
 ---
 
